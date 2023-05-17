@@ -1,0 +1,4 @@
+the Micrograd branch contains the code from the Andrej kaparthy video https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ however it has my own notes and modifications to the code. 
+It also containes snippets of code that were deleted after explanations in the video. 
+If you dont want to bother with 2 hours of youtube or just want a quick refresher on the topic just delete the #s in the cells. 
+I would highly recommend watching the video however.

@@ -1,0 +1,7 @@
+THis folder contains my code for generating names using bigrams. 
+This method calculates the prbability of one character to follow another. 
+take the name Tony for example. the idea is to find the probability of a word starting with T, then finding the probability of O following the letter T. then finding the probability of N following the character O 
+and so on. the model takes about 32000 names as an input and calculates this probability to generate names. 
+The bigramchar model initial contains the iterative method along with an intro to using a single layer Perceptron for the same. 
+the Bigram model Clean employes only the Neural network, however it adds gradient descent and loss regularization. 
+the loss regularization refers to smoothing out the bigram probabilities using a squared mean of the weights.

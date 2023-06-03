@@ -4,4 +4,4 @@ Currently only the MakeMore series by andrej Kaparthy find the videos here: http
 
 # I have now succesfully built a Decoder only Transformer
 You may find it and its output in scrappy GPT.
-Feel free to replace the Shake-the-spear.txt file with any of your choosing to train this 10 mil parameter NN.
+Feel free to replace the Shake-the-speare.txt file with any of your choosing to train this 10 mil parameter NN.
